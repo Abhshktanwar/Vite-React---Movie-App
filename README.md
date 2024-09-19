@@ -1,2 +1,7 @@
-# 11.-Vite_React---Movie-App
+Vite-React---Movie-App
+
+Please Install npm
+After then npm run dev
+
+
  
